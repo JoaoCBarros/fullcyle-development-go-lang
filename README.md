@@ -1,1 +1,1 @@
-# fullcyle-development-go-lang
+# Imagem no DockerHub: jpedrobarros/golang-challenger
